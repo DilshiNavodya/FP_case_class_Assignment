@@ -1,0 +1,4 @@
+INFO  time: initialize in 4.59s
+WARN  no build tool detected in workspace 'C:\Users\USER\OneDrive\Documents\GitHub\FP_case_class_Assignment'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Users\USER\OneDrive\Documents\GitHub\FP_case_class_Assignment\point.scala
+INFO  no build target: using presentation compiler with only scala-library
